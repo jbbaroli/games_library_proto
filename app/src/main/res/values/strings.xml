@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Games Library</string>
+    <string name="settings_name">Settings</string>
+    <string name="favourites_name">Favourites</string>
+</resources>
